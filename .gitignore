@@ -1,0 +1,65 @@
+syntax: glob
+_ReSharper.*/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+.DS_Store
+Netlotto/bin/
+Netlotto/obj/
+*.mdb
+
+#Autosave files
+*~
+
+# Build/test output
+obj
+bin
+test-results
+
+# VS sometimes writes these for no apparent reason
+_UpgradeReport_Files
+UpgradeLog.*
+
+# Per-user data
+*.DS_Store
+*.sln.cache
+*.suo
+*.userprefs
+*.usertasks
+*.user
+
+# ReSharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+
+*.exe
+
+*.mdb
+
+*.dll
+
+*.dll
+
+*.dll
+
+Netlotto/Pages/Special Offers Page/SpecialOffersItemView.cs
+
+# NuGet Packages Directory
+#packages/
+#Netlotto/packages/
+#*.nuget.targets
+#*.lock.json
+#*.nuget.props.
+*.packages
+/packages/
+*.Netlotto/packages/
+**/packages/*
+*.vs/
+*.packages/
+*Netlotto/build/
+*packages/

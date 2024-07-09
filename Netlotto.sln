@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netlotto.iOs", "Netlotto\Netlotto.iOs.csproj", "{295EC46F-7750-48F2-8CA7-A8FF43AD126E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{92DB0B1B-470F-4479-BD16-8631D9CDADEC}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Resources", "Resources\Resources.shproj", "{8B116A9D-70F5-42B0-A595-82B189CD3126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netlotto.Android", "Netlotto.Android\Netlotto.Android.csproj", "{8371961E-87F7-4DF4-B701-CB64BA2192E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedCode", "SharedCode\SharedCode.csproj", "{0E4DC3A2-94E5-4786-8E25-B732C2724074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Release|iPhone.Build.0 = Release|iPhone
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{295EC46F-7750-48F2-8CA7-A8FF43AD126E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Release|iPhone.Build.0 = Release|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{92DB0B1B-470F-4479-BD16-8631D9CDADEC}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Release|iPhone.Build.0 = Release|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{8371961E-87F7-4DF4-B701-CB64BA2192E3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Release|iPhone.Build.0 = Release|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0E4DC3A2-94E5-4786-8E25-B732C2724074}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF30F3C-FA07-4E1A-AF51-FB5F54250B38}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Resources\Resources.projitems*{295ec46f-7750-48f2-8ca7-a8ff43ad126e}*SharedItemsImports = 4
+		Resources\Resources.projitems*{8371961e-87f7-4df4-b701-cb64ba2192e3}*SharedItemsImports = 4
+		Resources\Resources.projitems*{8b116a9d-70f5-42b0-a595-82b189cd3126}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.CommitMessageStyle = $2
+		$2.IncludeDirectoryPaths = True
+		$2.LineAlign = 0
+	EndGlobalSection
+EndGlobal
